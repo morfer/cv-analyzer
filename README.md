@@ -1,3 +1,5 @@
+https://youtu.be/T0nKHJYF5Xw
+
 # Analisador de Currículos
 
 Este é um projeto de análise de currículos que utiliza a API do Ollama para resumir e pontuar currículos com base na descrição de uma vaga específica. O projeto é desenvolvido em Python, com o Streamlit como front-end para a interface do usuário.
